@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"battlerName":"Yura Trial Sprite","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Marine","nickname":"","note":"<Home Position: 420, 500>","profile":""},
+{"id":2,"battlerName":"Yura Trial Sprite","characterIndex":7,"characterName":"Actor1","classId":2,"equips":[2,1,2,3,0],"faceIndex":7,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Claudius","nickname":"","note":"<Home Position: 640, 500>","profile":""},
+{"id":3,"battlerName":"Yura Trial Sprite","characterIndex":7,"characterName":"Actor3","classId":3,"equips":[3,0,2,3,4],"faceIndex":7,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Illiva","nickname":"","note":"<Home Position: 880, 500>","profile":""},
+{"id":4,"battlerName":"Actor2_6","characterIndex":4,"characterName":"Actor2","classId":5,"equips":[5,0,0,0,4],"faceIndex":4,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Mc'ree","nickname":"","note":"<Home Position: 1100, 500>","profile":""},
+{"id":5,"battlerName":"Actor2_4","characterIndex":1,"characterName":"Actor3","classId":1,"equips":[1,0,0,0,4],"faceIndex":1,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Yura","nickname":"","note":"<Home Position: 420, 600>","profile":""}
+]
